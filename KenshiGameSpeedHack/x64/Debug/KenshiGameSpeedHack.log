@@ -1,0 +1,7 @@
+﻿  detours.cpp
+  dllmain.cpp
+C:\Users\Администратор\source\repos\KenshiGameSpeedHack\KenshiGameSpeedHack\Kenshi_GameSpeedHack.h(35,26): warning C4244: 'return': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Администратор\source\repos\KenshiGameSpeedHack\KenshiGameSpeedHack\Kenshi_GameSpeedHack.h(40,28): warning C4244: 'return': conversion from 'double' to 'ULONGLONG', possible loss of data
+C:\Users\Администратор\source\repos\KenshiGameSpeedHack\KenshiGameSpeedHack\Kenshi_GameSpeedHack.h(47,59): warning C4244: '=': conversion from 'double' to 'LONGLONG', possible loss of data
+  Generating Code...
+  KenshiGameSpeedHack.vcxproj -> C:\Users\Администратор\source\repos\KenshiGameSpeedHack\x64\Debug\KenshiGameSpeedHack.dll
