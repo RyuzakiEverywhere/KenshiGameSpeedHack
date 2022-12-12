@@ -1,0 +1,2 @@
+# KenshiGameSpeedHack
+KenshiGameSpeedHack by RyuzakiEverywhere
